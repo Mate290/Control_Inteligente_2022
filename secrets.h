@@ -9,7 +9,7 @@ const char WIFI_PASSWORD[] = "*********";           //0544287380
  
 int8_t TIME_ZONE = -5; //NYC(USA): -5 UTC
  
-const char MQTT_HOST[] = "aw0plm88m60z-ats.iot.us-east-1.amazonaws.com";
+const char MQTT_HOST[] = "***************";
 
 static const char cacert[] PROGMEM = R"EOF(
 -----BEGIN CERTIFICATE-----
